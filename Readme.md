@@ -1,6 +1,6 @@
 #HTML-CSS-Testhub
 
-###This specific project introduced me to Github and it's funtionality within a terminal.
+##This specific project introduced me to Github and it's funtionality within a terminal.
 
 ####Files created and pushed using git add ., git commit, and git push;
 
