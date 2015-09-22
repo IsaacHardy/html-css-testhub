@@ -1,0 +1,54 @@
+* {
+  background-color: #B2B2B2;
+}
+
+.campus, .campus h2, .campus h3, .instructors, .instructors h2, .instructors ul, .pong {
+  color: #66FFCC;
+  text-align: center;
+  background-color: #CC6600;
+  margin: 0 100px 0 100px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 7px;
+}
+
+.pong ol, .pong p, .pong h2, .pong h3 {
+  border-radius: 7px;
+  margin: 10px 30px 10px 30px;
+  padding: 2px;
+}
+
+
+
+.pong p {
+  text-align: center;
+  color: #ffffff;
+}
+
+ul li {
+  color: #FFFFFF;
+}
+
+.instructors, .instructors p, header, footer {
+  text-align: center;
+}
+
+ul li {
+  padding: 8px;
+  border-radius: 7px;
+  background-color: black; 
+  margin: 0 100px 0 100px;
+  border: 1px dotted 
+}
+
+span {
+  color: red;
+}
+
+footer h2 span {
+  color: yellow;
+}
+
+ol li {
+  margin: 0 280px 0 275px
+}
