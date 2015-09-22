@@ -83,3 +83,15 @@ footer:hover {
     background-image: url("http://cdn-image.myrecipes.com/sites/default/files/styles/300x300/public/image/recipes/sl/11/angel-biscuits-sl-x.jpg?itok=J8QaeJwn");
     background-position: 10px -35px;
 }
+
+.tim:hover {
+    background-image: url("https://avatars2.githubusercontent.com/u/425938?v=3&s=460");
+    background-size: 320px 40px;
+  
+}
+
+.jd:hover {
+    background-image: url("https://avatars2.githubusercontent.com/u/1355481?v=3&s=460");
+    background-size: 320px 40px;
+    
+}
