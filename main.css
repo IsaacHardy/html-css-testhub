@@ -78,3 +78,8 @@ footer, header {
   max-width: 630px;
   margin: auto;
 }
+
+footer:hover {
+    background-image: url("http://cdn-image.myrecipes.com/sites/default/files/styles/300x300/public/image/recipes/sl/11/angel-biscuits-sl-x.jpg?itok=J8QaeJwn");
+    background-position: 10px -35px;
+}
