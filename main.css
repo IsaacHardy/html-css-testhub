@@ -1,9 +1,11 @@
 * {
   background-color: #B2B2B2;
+  max-width: 900px;
+  margin: auto;
 }
 
 .campus, .campus h2, .campus h3, .instructors, .instructors h2, .instructors ul, .pong, .pong h2, .pong h3, .pong p, .pong  {
-  color: #66FFCC;
+  color: white;
   text-align: center;
   background-color: #CC6600;
   margin: 0 100px 0 100px;
