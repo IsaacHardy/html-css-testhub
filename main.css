@@ -2,7 +2,7 @@
   background-color: #B2B2B2;
 }
 
-.campus, .campus h2, .campus h3, .instructors, .instructors h2, .instructors ul, .pong {
+.campus, .campus h2, .campus h3, .instructors, .instructors h2, .instructors ul, .pong, .pong h2, .pong p, .pong  {
   color: #66FFCC;
   text-align: center;
   background-color: #CC6600;
@@ -10,6 +10,10 @@
   padding: 10px;
   border: 2px solid black;
   border-radius: 75px;
+}
+
+.instructors ul {
+  border: none;
 }
 
 .instructors p {
@@ -20,8 +24,7 @@
   padding: 10px;
   border-radius: 7px;
 }
-
-.pong ol, .pong p, .pong h2, .pong h3 {
+.pong ol, .pong p, .pong h3 {
   border-radius: 7px;
   margin: 10px 30px 10px 30px;
   padding: 2px;
