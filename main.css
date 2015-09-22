@@ -67,3 +67,14 @@ footer h2 span {
 ol li {
   margin: 0 280px 0 275px
 }
+
+footer, header {
+  text-align: center;
+  background-color: #CC6600;
+  margin: 15px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 75px;
+  max-width: 630px;
+  margin: auto;
+}
