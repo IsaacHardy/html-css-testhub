@@ -1,7 +1,8 @@
-* {
+body {
   background-color: #B2B2B2;
   max-width: 900px;
   margin: auto;
+  background-image: url(http://charleston.webafternoon.com/wp-content/uploads/2014/09/sponsor-the-iron-yard.png);
 }
 
 .campus, .campus h2, .campus h3, .instructors, .instructors h2, .instructors ul, .pong, .pong h2, .pong h3, .pong p, .pong  {
